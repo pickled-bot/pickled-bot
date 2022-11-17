@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faulconershelby
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, TypeScript, and GraphQL.
 - 💞️ I’m looking to collaborate on computational design!
 - 📫 How to reach me ...
 
