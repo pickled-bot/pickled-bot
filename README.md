@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faulconershelby
+- 👋 Hi, I’m @pickled-bot
 - 👀 I’m interested in learning!
 - 🌱 I’m currently learning Python, TypeScript, and GraphQL.
 - 💞️ I’m looking to collaborate on computational design!
